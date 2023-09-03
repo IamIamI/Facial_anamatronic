@@ -33,7 +33,7 @@ The wiring diagram for the rig to the ESP32 can be found below:
 | - | VRY | - |
 | - | SW | - |
 
-<img src="https://github.com/IamIamI/Facial_anamatronic/blob/main/images/FaceAnimatronic_V3_bb.jpg?raw=true" width="400" />
+<img src="https://github.com/IamIamI/Facial_anamatronic/blob/main/images/FaceAnimatronic_V3_bb.jpg?raw=true" width="800" />
 
 At the moment the joystick is not yet working, and the script just cycles through all the movements. Eyelids are not synched properly and the bottom lids have a tendency to get stuck a bit (too little torque i think) 
 
