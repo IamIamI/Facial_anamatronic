@@ -19,7 +19,6 @@ The particular ESP32 module that was used can be seen here, keep in mind that th
 
 The wiring diagram for the rig to the ESP32 can be found below:
 
-##Wiring
 | ESP32 | Joystick Module | Servo |
 | ---|---|--- |
 | Pin 15 | - | Servo Upper Left Eyelid|
